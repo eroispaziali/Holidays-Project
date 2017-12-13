@@ -60,29 +60,29 @@
     [
         "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1513175232533,
-            "changeTime": 1513175232533,
-            "isWorkspace": false,
-            "contentHash": "95e9cb06c407fc43de3120b3c4f60c6bb5d49ac6"
+            "modifiedTime": 1513174887712,
+            "changeTime": 1513174662933,
+            "contentHash": "75ece5d1e46a51f780bc97d458f27f1cfc89ef04",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\pages",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\pages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1513175230680,
-            "changeTime": 1513175230680,
-            "isWorkspace": false,
-            "contentHash": "afbfd97886ee9f2f801e041b1fd4b4b164a00b72"
+            "modifiedTime": 1513174476377,
+            "changeTime": 1513173620788,
+            "contentHash": "d52d0b2a05ec8fe5122eee996df56181a6373e18",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -298,14 +298,14 @@
     [
         "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidaysController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidaysController.cls",
             "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1513172951858,
+            "changeTime": 1513172951867,
+            "contentHash": "a029e40b01be30cd7f9a9e6e3586ece0248746ca",
             "isMetadataFile": false,
-            "size": 189,
-            "modifiedTime": 1513175232522,
-            "changeTime": 1513175232531,
-            "contentHash": "2e6394e2a66d8b926c2926e532e1ac67f07b1f7f"
+            "state": "u"
         }
     ],
     [
@@ -324,14 +324,14 @@
     [
         "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\pages\\Holidays.page",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\pages\\Holidays.page",
             "isDirectory": false,
+            "size": 594,
+            "modifiedTime": 1513173096651,
+            "changeTime": 1513173096660,
+            "contentHash": "a87937bb45d7532b01647efdf130820312d8334e",
             "isMetadataFile": false,
-            "size": 325,
-            "modifiedTime": 1513175230670,
-            "changeTime": 1513175230680,
-            "contentHash": "f426adaaeb979440aaa31de6d6c8f6a769e01ab7"
+            "state": "u"
         }
     ],
     [
@@ -343,6 +343,84 @@
             "modifiedTime": 1513171569482,
             "changeTime": 1513171569482,
             "contentHash": "1e96a1392426ab112e8783fa170fe6d5eb98fd8f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewController.cls",
+        {
+            "sourcePath": "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewController.cls",
+            "isDirectory": false,
+            "size": 536,
+            "modifiedTime": 1513174587273,
+            "changeTime": 1513174587282,
+            "contentHash": "b2ca6289a1ccb2977d9731ebc9bbca13548da7c8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1513173169530,
+            "changeTime": 1513173169530,
+            "contentHash": "9e15177c8bf4acdd9a19508203c3c714b6817fa2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\pages\\HolidayPreview.page",
+        {
+            "sourcePath": "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\pages\\HolidayPreview.page",
+            "isDirectory": false,
+            "size": 252,
+            "modifiedTime": 1513174476366,
+            "changeTime": 1513174476374,
+            "contentHash": "678f3f5ed4df6972cade47d68843e91397e39ea1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\pages\\HolidayPreview.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\pages\\HolidayPreview.page-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1513173116308,
+            "changeTime": 1513173116308,
+            "contentHash": "07b50beb52c5dabbd7d06d9d5a56cec3037a9a44",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1437,
+            "modifiedTime": 1513174887700,
+            "changeTime": 1513174887710,
+            "contentHash": "b16a2be21e69478372dfb6d834e16c10540772b8"
+        }
+    ],
+    [
+        "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Bick\\Documents\\The Welkin Suite\\Projects\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 206,
+            "modifiedTime": 1513174623877,
+            "changeTime": 1513174623877,
+            "contentHash": "ec81658707d7dea790fa71a449ff762a2145b1e0",
             "isMetadataFile": true,
             "state": "u"
         }
