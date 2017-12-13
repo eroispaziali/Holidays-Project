@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <AssemblyName>Holidays Project</AssemblyName>
+    <RootNamespace>Holidays Project</RootNamespace>
+    <ProjectPackageVersion>1.14.8.4</ProjectPackageVersion>
+    <ProjectGuid>{e6173e7d-f77f-4022-8e29-50b79a9af503}</ProjectGuid>
+    <Name>Holidays Project</Name>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <Import Project="$(MSBuildBinPath)\BuildDX.targets" />
+</Project>
