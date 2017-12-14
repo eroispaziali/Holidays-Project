@@ -5,6 +5,15 @@
                 "type": "Holiday__c",
                 "referenceId": "Holiday__cRef1"
             },
+            "Holiday_Date__c": "2017-12-31",
+            "Is_Public_Holiday__c": false,
+            "Name": "New Year"
+        },
+        {
+            "attributes": {
+                "type": "Holiday__c",
+                "referenceId": "Holiday__cRef2"
+            },
             "Holiday_Date__c": "2017-12-25",
             "Is_Public_Holiday__c": true,
             "Name": "XMas"
@@ -12,20 +21,11 @@
         {
             "attributes": {
                 "type": "Holiday__c",
-                "referenceId": "Holiday__cRef2"
+                "referenceId": "Holiday__cRef3"
             },
             "Holiday_Date__c": "2018-01-13",
             "Is_Public_Holiday__c": true,
             "Name": "Orthodox Christmas"
-        },
-        {
-            "attributes": {
-                "type": "Holiday__c",
-                "referenceId": "Holiday__cRef3"
-            },
-            "Holiday_Date__c": "2017-12-31",
-            "Is_Public_Holiday__c": false,
-            "Name": "New Year"
         }
     ]
 }

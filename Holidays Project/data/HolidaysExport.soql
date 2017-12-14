@@ -1,6 +1,4 @@
 SELECT
-	CreatedById,
-	CreatedDate,
 	Holiday_Date__c,
 	Id,
 	Is_Public_Holiday__c,

@@ -1,5 +1,6 @@
 <apex:page controller="HolidaysController">
     <apex:pageBlock title="Holidyays">
+        <apex:pageMessages></apex:pageMessages>
         <apex:pageBlockTable value="{!holidays}" var="holiday">
             <apex:column value="{!holiday.Name}"/>
             <apex:column value="{!holiday.Holiday_Date__c}"/>

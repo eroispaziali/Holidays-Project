@@ -47,15 +47,15 @@
     [
         "D:\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "D:\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1513268899418,
+            "modifiedTime": 1513269872699,
             "changeTime": 1513268899418,
-            "isWorkspace": false,
-            "contentHash": "2a66a2e05296bcd864c1a4007f8cc3d229c386e0"
+            "contentHash": "2a66a2e05296bcd864c1a4007f8cc3d229c386e0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -63,10 +63,10 @@
         {
             "sourcePath": "D:\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidaysController.cls",
             "isDirectory": false,
-            "size": 189,
-            "modifiedTime": 1513268345258,
-            "changeTime": 1513268345258,
-            "contentHash": "2e6394e2a66d8b926c2926e532e1ac67f07b1f7f",
+            "size": 401,
+            "modifiedTime": 1513269825997,
+            "changeTime": 1513269826001,
+            "contentHash": "307f4628abe33112a0bb293b4de672dce70111b5",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -213,7 +213,7 @@
             "sourcePath": "D:\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\pages",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1513268759948,
+            "modifiedTime": 1513269809825,
             "changeTime": 1513268730686,
             "contentHash": "c54c056568da19553ca7d6f608db1f017884ca19",
             "isMetadataFile": false,
@@ -226,10 +226,10 @@
         {
             "sourcePath": "D:\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\pages\\Holidays.page",
             "isDirectory": false,
-            "size": 611,
-            "modifiedTime": 1513268759955,
-            "changeTime": 1513268759955,
-            "contentHash": "bae9121dcb9e8461c7f881b62615954484fb64fa",
+            "size": 659,
+            "modifiedTime": 1513269809833,
+            "changeTime": 1513269809833,
+            "contentHash": "eab14ed0aff3ec91c2cbee3008bf6267a8070e3f",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -375,14 +375,14 @@
     [
         "D:\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewerController.cls",
         {
+            "state": "u",
             "sourcePath": "D:\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewerController.cls",
             "isDirectory": false,
-            "size": 466,
-            "modifiedTime": 1513268706584,
-            "changeTime": 1513268706586,
-            "contentHash": "6c93bd546fc6df6d024226975bf3e71d73c7fd63",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 646,
+            "modifiedTime": 1513269845478,
+            "changeTime": 1513269845482,
+            "contentHash": "8d9d8b7538b0b80fe1fd3a23de0a3100a5f3010e"
         }
     ],
     [
@@ -404,7 +404,7 @@
             "sourcePath": "D:\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\pages\\HolidaysPreviewer.page",
             "isDirectory": false,
             "size": 358,
-            "modifiedTime": 1513268730684,
+            "modifiedTime": 1513269089250,
             "changeTime": 1513268730686,
             "contentHash": "6840cd58c7d5e783e71647fe45b49d9a15c364cc",
             "isMetadataFile": false,
@@ -431,23 +431,23 @@
             "sourcePath": "D:\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewControllerTest.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1437,
-            "modifiedTime": 1513268899415,
-            "changeTime": 1513268899417,
-            "contentHash": "ec60483b62f13064da821356c522d34d38e4a169"
+            "size": 1460,
+            "modifiedTime": 1513269872695,
+            "changeTime": 1513269872699,
+            "contentHash": "4cc29e3ba69a02243a79b4e30dff17f3c8751f36"
         }
     ],
     [
         "D:\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewControllerTest.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\Holidays-Project\\Holidays Project\\force-app\\main\\default\\classes\\HolidayPreviewControllerTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 206,
             "modifiedTime": 1513174623877,
             "changeTime": 1513174623877,
-            "contentHash": "ec81658707d7dea790fa71a449ff762a2145b1e0"
+            "contentHash": "ec81658707d7dea790fa71a449ff762a2145b1e0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
