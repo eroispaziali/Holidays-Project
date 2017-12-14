@@ -3,6 +3,12 @@
         <apex:pageBlockTable value="{!holidays}" var="holiday">
             <apex:column value="{!holiday.Name}"/>
             <apex:column value="{!holiday.Holiday_Date__c}"/>
+            <apex:column headerValue="Coundtown">
+                <apex:outputLink value="/apex/HolidaysPreviewer">
+                    Time left
+                    <apex:param name="id" value="{!holiday.id}"></apex:param>
+                </apex:outputLink>
+            </apex:column>
         </apex:pageBlockTable>
     </apex:pageBlock>
 </apex:page>
