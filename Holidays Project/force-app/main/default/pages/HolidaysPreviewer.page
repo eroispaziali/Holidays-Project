@@ -1,5 +1,6 @@
 <apex:page controller="HolidayPreviewerController" action="{!init}">
     <apex:pageBlock>
+        <apex:pageMEssages></apex:pageMEssages>
         <apex:pageblockSection title="Countdown" columns="1">
             <apex:outputText value="Hours left: {0}">
                 <apex:param value="{!hoursLeft}"/>
